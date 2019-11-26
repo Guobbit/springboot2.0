@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: springboot2.0
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: gty95
+Built-By: gty
 Implementation-Vendor-Id: com.springBoot
 Build-Jdk: 1.8.0_221
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
